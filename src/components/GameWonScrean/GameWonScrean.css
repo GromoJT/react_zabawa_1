@@ -1,0 +1,17 @@
+.GameWonScrean{
+    height: 100%;
+    width: 100%;
+    
+    background-image: url('https://static.wixstatic.com/media/4444b5_37cd3919ba754b8692741e24c75d3f8c~mv2.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.b{
+    position: absolute;
+    left:50%;
+    top: 10%;
+    color: brown;
+    background-image: url("https://el.phncdn.com/gif/26434412.gif");
+}
