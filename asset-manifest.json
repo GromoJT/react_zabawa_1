@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react_zabawa_1npm/static/css/main.3581994e.css",
+    "main.js": "/react_zabawa_1npm/static/js/main.6fb8b3c3.js",
+    "static/js/787.0566a237.chunk.js": "/react_zabawa_1npm/static/js/787.0566a237.chunk.js",
+    "static/media/01-the-screaming-sheep.mp3": "/react_zabawa_1npm/static/media/01-the-screaming-sheep.8ccb05122bbb0f331ab6.mp3",
+    "static/media/scarry.png": "/react_zabawa_1npm/static/media/scarry.1d5bac1b985805d054a9.png",
+    "static/media/win.mp3": "/react_zabawa_1npm/static/media/win.f95730b6e7c431e6d5a1.mp3",
+    "index.html": "/react_zabawa_1npm/index.html",
+    "main.3581994e.css.map": "/react_zabawa_1npm/static/css/main.3581994e.css.map",
+    "main.6fb8b3c3.js.map": "/react_zabawa_1npm/static/js/main.6fb8b3c3.js.map",
+    "787.0566a237.chunk.js.map": "/react_zabawa_1npm/static/js/787.0566a237.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3581994e.css",
+    "static/js/main.6fb8b3c3.js"
+  ]
+}
